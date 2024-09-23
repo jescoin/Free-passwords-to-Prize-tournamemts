@@ -9,3 +9,13 @@ Heyoo! With you again jescoin
 How we see this tournament need a password, how we need to guessed it? 
 
 Just open _chesscs.py_ file and start it. 
+
+That's if if you need a password from Chesscs's tournaments.
+
+There, press the number **1** if you want to get the password, or the number **2** if you want to contact support.
+
+After that, text the number of the TON Chess battle (*for ex. 12*)
+
+> The password is - 1112
+
+The [support](https://t.me/hackdalichess)
