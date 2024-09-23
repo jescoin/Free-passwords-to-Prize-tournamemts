@@ -19,3 +19,17 @@ After that, text the number of the TON Chess battle (*for ex. 12*)
 > The password is - 1112
 
 The [support](https://t.me/hackdalichess)
+
+So what about another close tournaments?
+----------------------------------------
+
+Just open the _Another.py_ file and choose the number of password.
+
+You will get the all combination of passwords
+
+Good luck, 
+jescoin
+
+
+Help me:
+TON: _UQCsoUkvrDykaeGJ_pCTakgrkr1zQ9KB4HKylmsR-g6y1Gtf_
