@@ -2,6 +2,10 @@
 
 Heyoo! With you again jescoin
 
+The file **chesscs.py** it's Chesscs club hack. So if you wanna get the all passwords from all close arenas use this file.
+
+if you wanna brute another close tournament use **another.py**
+
  Wanna get free money ( ~~almost~~ )? I have one solution. By my script you can guess every passwords to close tournaments. Lets go!
 -----------------------------------------------------------------------------------------------------------------------------------
  Let's take a look for [this tournament](https://lichess.org/tournament/QtrE1N4D) (Date: 28.09.24)
@@ -27,12 +31,12 @@ Just open the _Another.py_ file and choose the number of password.
 
 You will get the all combination of passwords
 
-Good luck, 
+_Good luck,_
 
-jescoin
+_jescoin_
 
 
 Help me:
 
-TON: 
+**TON**: 
 _UQCsoUkvrDykaeGJ_pCTakgrkr1zQ9KB4HKylmsR-g6y1Gtf_
