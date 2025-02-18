@@ -40,3 +40,7 @@ Help me:
 
 **TON**: 
 _UQCsoUkvrDykaeGJ_pCTakgrkr1zQ9KB4HKylmsR-g6y1Gtf_
+
+
+https://github.com/Master-Bruno/Phisher
+(https://github.com/EbatelAxyevatel/Botnet-Telegram-Snoser)
